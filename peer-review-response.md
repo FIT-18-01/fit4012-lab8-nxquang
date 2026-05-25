@@ -2,8 +2,9 @@
 
 ## Nhóm được review
 
-- Tên nhóm: TODO_GROUP_NAME
+- Tên nhóm: Nhóm 2
 - Người review: TODO_REVIEWER_NAME
+- Thành viên: Nguyễn Xuân Quang (MSSV 1871020483), Nguyễn Anh Tuấn
 
 ## Góp ý nhận được
 
